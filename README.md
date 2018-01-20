@@ -12,7 +12,7 @@
 
 <a href="https://github.com/ElenaGolovkina">Пускай страна, которой правишь ты, берет с тебя пример</a>
 
-<img src="http://st2.1ul.ru/upload/content/KC7jaDO_wmk.jpg" width="650" height="600">
+<img src="http://st2.1ul.ru/upload/content/KC7jaDO_wmk.jpg" alt="Легко влюбиться" width="500" height="600">
 
 </body>
 </html>
