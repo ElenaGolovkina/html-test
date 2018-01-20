@@ -8,7 +8,7 @@
 
 <a href="https://github.com/ElenaGolovkina">В объятьях юных кавалеров</a>
 
-<img src="http://st2.1ul.ru/upload/content/KC7jaDO_wmk.jpg" alt="Легко влюбиться" width="500" height="600">
+<img src="http://st2.1ul.ru/upload/content/KC7jaDO_wmk.jpg" alt="Легко влюбиться" width="600" height="400">
 
 <h1>Забывает обо всем</h1>
 <h2>Как будто вечно ночь будет длиться</h2>
