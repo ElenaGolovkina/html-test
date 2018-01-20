@@ -24,7 +24,25 @@
 <p>И вся страна<sub> которой правишь ты</sub> берет <ins>с тебя пример</ins></p>
 <p><i>Легко влюбиться</i></p>
 
-<p>This is<br>a paragraph<br>with line breaks</p>
+
+<h2>Императрица</h2>
+
+<ul>
+  <li>Когда так страстно</li>
+  <li>бирюзовым</li>
+  <li>взглядом смотрит</li>
+</ul>   
+
+<p>О<br>фи<br>цер</p>
+<p>Browsers usually indent blockquote elements.</p>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
 
 </body>
 </html>
